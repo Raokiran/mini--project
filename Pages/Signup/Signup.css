@@ -1,0 +1,29 @@
+.signmain{
+    background-image: url(C:\Users\DELL\Desktop\dbms2\frontend\src\assets\vip.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px;
+    height: 645px;
+}
+
+
+.sain{
+    flex-direction: column;
+    justify-content: center;
+    display: inline-flex;
+    padding-left:300px ;
+    padding-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+   align-items: center;
+   color: black;
+}
+.logosi{
+    padding-right:10px ;
+    align-items:right;
+    padding-top: 100px;
+    border-radius: 600%;
+    width:500px;
+    float: right;
+    float:top;
+}

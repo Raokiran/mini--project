@@ -1,0 +1,27 @@
+.Homemain{
+    background-image: url(C:\Users\DELL\Desktop\dbms2\frontend\src\assets\vip.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px;
+    height: 645px;
+}
+.Homedes{
+    display: flex;
+    align-items:center ;
+
+}
+.sentia{
+    margin-top:100px ;
+    margin-left:130px ;
+    width: 300px;
+    border-radius:100px;
+}
+.texts{text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    color:bisque;
+}
+.lab{
+    width:100px;
+    height:100px;
+}

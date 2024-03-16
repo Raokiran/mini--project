@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    background-image: url(C:\Users\DELL\Desktop\dbms2\frontend\src\assets\vip.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px;
+    height: 645px;
+    border: 60px;
+}
+.logo{
+    margin: right 100px; ;
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    border-radius:60% ;
+}
+.input{
+    width: 200px ;
+    height: 25px ;
+    margin: bottom 30px ;
+    border-radius:10px ;
+    
+}
+.btn{
+    font-weight: bold;
+    margin:10px;
+    width: 150px;
+    height:50px;
+    border-radius:40px ;
+    background-color: yellow;
+    font-size: 20px;
+}

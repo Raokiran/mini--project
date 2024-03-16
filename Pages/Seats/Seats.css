@@ -1,0 +1,44 @@
+.evemain{
+  background-image: url(C:\Users\DELL\Desktop\dbms2\frontend\src\assets\vip.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1500px;
+  height: 750px;
+}
+  .seats {
+ margin-top:100px;
+    text-align: center;
+    border-radius:70px ;
+    width :100px,
+
+  }
+  
+  .seat {
+    display: inline-block;
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: lightgray;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    line-height: 30px;
+    border-radius: 100px;
+  }
+  
+  .seat.selected {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .selected-seats {
+    margin-top: 20px;
+  }
+  
+  .selected-seats ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .selected-seats li {
+    margin-bottom: 5px;
+  }

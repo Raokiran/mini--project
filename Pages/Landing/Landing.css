@@ -1,0 +1,38 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(C:\Users\DELL\Desktop\dbms2\frontend\src\assets\vip.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px;
+    height: 645px;
+}
+
+.btn{
+    margin:10px;
+    width: 150px;
+    height:50px;
+    border-radius:30% ;
+    background-color: yellow;
+    font-size: 20px;
+    cursor: pointer;
+}
+.header{
+    padding:15px;
+    font-size: 50px;
+ color: gold;
+}
+
+.logo{
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    border-radius:60% ;
+}
+.slogan{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:red;
+}
+
